@@ -9,8 +9,6 @@ The language provides constructs intended to enable writing clear programs
 on both a small and large scale.
 
 ### About
-*****
-
 GMax is an easy to use high-level programming language created
 by Aswin Murali a 13 year old boy. He started the development
 in 2016 August. GMax is used for both scientific and non-scientific
@@ -25,8 +23,6 @@ easily than compiled languages. GMax also has a compiler to compile code
 to scripts to valid exe or AST code.
 
 ### Code Technology
-***************
-
 Most programming language converts codes form source to machine.
 But GMax uses AST code (Abstract Syntax Tree Code) which is the
 GMax virtual instruction. GMax uses AST, A compiled form of
@@ -34,8 +30,6 @@ GMax code to make it completely portable, so that it makes your
 compiled code available on all platforms where GMax is present.  
 
 ### Speed
-*****
-
 As we said earlier, GMax compiles code to AST rather than machine code.
 This might affect the speed of the program but don’t worry.
 GMax has many tools to convert your compiled AST codes to Native
@@ -43,16 +37,12 @@ codes and GMax also has a Just-In-Time (JIT) compiler that makes
 the code faster than normal performance. 
 
 ### Powerful
-********
-
 GMax is not a small language. It’s powerful with support for
 OpenGL, Cross-Platform Tk GUI, Powerful GMGame modules.
 To develop Games, Apps, Websites, Web Apps, Web Games, Backend-Programs etc.
 
 
 ### License
-*******
-
 Copyright [2016] [Aswin Murali]
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -67,28 +57,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+A Simple hello world program
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+print "Hello World"
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
