@@ -35,7 +35,7 @@ This might affect the speed of the program but don’t worry.
 GMax has many tools to convert your compiled AST codes to Native
 codes and GMax also has a Just-In-Time (JIT) compiler that makes
 the code faster than normal performance. 
-
+ 
 ### Powerful
 GMax is not a small language. It’s powerful with support for
 OpenGL, Cross-Platform Tk GUI, Powerful GMGame modules.
